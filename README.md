@@ -1,5 +1,6 @@
-Bievenidos a mi repositorio!! 👋
+# Bievenidos a mi repositorio!! 👋
 
+### Frontend Developer
 Hola soy Alan Clausel soy un apasionado por la programación, actualmente me encuentro estudiando el segundo año de la tecnicatura en Programación Informática
 poseo conocimiento en:
 * HTML
