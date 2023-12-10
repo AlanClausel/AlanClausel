@@ -1,6 +1,6 @@
 # Bievenidos a mi repositorio!! 👋
 
-### Backend/DevOps Trainer Developer
+### DevOps Jr
 Hola soy Alan Clausel soy un apasionado por la programación, actualmente me encuentro estudiando el segundo año de la tecnicatura en Programación Informática
 poseo conocimiento en:
 * Linux
