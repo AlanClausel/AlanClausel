@@ -1,7 +1,7 @@
 # Bievenidos a mi repositorio!! 👋
 
 ### DevOps Jr
-Hola soy Alan Clausel soy un apasionado por la programación, actualmente me encuentro estudiando el segundo año de la tecnicatura en Programación Informática
+Hola soy Alan Clausel soy un apasionado por la programación, actualmente me encuentro estudiando el segundo año de la Tecnicatura en Analista de Sistemas
 poseo conocimiento en:
 * Linux
 * AWS / Azure
